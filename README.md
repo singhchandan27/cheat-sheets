@@ -32,19 +32,6 @@ git clone https://github.com/singhchandan27/cheatsheets.git
 cd cheatsheets
 ```
 
----
-
-## ✨ Example Topics
-
-- **Linux** → file permissions, process management, networking  
-- **Git** → branching, rebasing, conflict resolution  
-- **Docker** → build, run, volume, network commands  
-- **Kubernetes** → kubectl commands, pod debugging, YAML templates  
-- **AWS** → S3, EC2, IAM, CloudFormation quick refs  
-- **DevOps** → Jenkins pipelines, Terraform basics, Ansible playbooks  
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
