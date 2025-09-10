@@ -31,6 +31,7 @@ You can also clone this repo locally:
 git clone https://github.com/singhchandan27/cheatsheets.git
 cd cheatsheets
 ```
+---
 
 ## 🤝 Contributing
 
