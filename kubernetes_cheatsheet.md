@@ -96,6 +96,3 @@
 - `kubectl describe secret <secret_name>` : Describe Secret
 - `kubectl delete secret <secret_name>` : Delete Secret
 - `kubectl edit secret <secret_name>` : Edit Secret
-
----
-*Follow Nikhil C for More Notes by NIKHIL*
